@@ -1,5 +1,6 @@
-# Team Page
-capdol-plus-i.github.io/
+# [Team Page](https://capdol-plus-i.github.io/)
+
+<br>
 
 # Team Members (팀원 소개)
 | 정윤상 | 곽호세 | 고광채 | 송유찬 |
