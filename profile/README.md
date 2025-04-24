@@ -6,4 +6,4 @@
 | [GitHub](https://github.com/yunss719) | [GitHub](https://github.com/hosekwak) | [GitHub](https://github.com/kwangchae) | [GitHub](https://github.com/pandagom109206) |
 
 ## DEMO
-![Teleoperation Demo](https://raw.githubusercontent.com/Capdol-plus-i/.github/refs/heads/main/profile/teleoperation_demo.webp)
+![Teleoperation Demo](https://github.com/Capdol-plus-i/.github/blob/aeea9f064bc2388935c4d4cbc47134dbbffed6fc/profile/teleoperation.webp)
